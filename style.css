@@ -42,11 +42,12 @@
   
 .card text-white bg-primary {
       background-color:#2A9FD6!important;
-      max-height: 50rem; 
+      max-height: 35rem; 
       flex-shrink: 30rem; 
     }
 .row {
-margin-top: top 3px; 
+margin-top: top 10px;
+padding-bottom: 10px; 
 }      
 .container {
   display: flex;
@@ -57,4 +58,11 @@ margin-right: 5px;
 padding-right: 10px;
 padding-top: 10px;
 float:top;
+}
+.col- {
+padding: 20px;
+
+}
+text-right {
+padding-left: 10px;
 }
